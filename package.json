@@ -46,7 +46,7 @@
     ]
   },
   "devDependencies": {
+    "@types/codemirror": "^5.60.15",
     "nodemon": "^3.1.4"
-    
   }
 }
